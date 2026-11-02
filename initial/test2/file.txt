@@ -1,3 +1,0 @@
-Task 1, step 3: This is a test file.
-
-This is an edited version.
